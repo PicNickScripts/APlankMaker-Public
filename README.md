@@ -21,7 +21,7 @@ The jar targets Java 8 bytecode for DreamBot compatibility.
 
 ## Release Status
 
-- **Current public release:** v3.7
+- **Current public release:** v3.8
 - Simple and Advanced sawmill workflows are the primary production modes.
 - GE restocking and selling are marked BETA.
 - Woodcutting Guild and Prifddinas routing are marked BETA.
