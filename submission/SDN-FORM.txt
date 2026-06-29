@@ -1,0 +1,39 @@
+Category:
+Moneymaking
+
+Name:
+APlankMaker
+
+Description:
+Makes planks with a clean setup flow, Simple auto-routing, Advanced sawmill controls, supported sawmill routes for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock, owned-supply processing, Ironman-safe behavior, runtime editing, breaks, public bug reporting, and live statistics. Optional BETA/experimental workflows include GE restocking and selling plus a separate Lunar Plank Make mode with rune and staff staging, altar switching, and safe-world hopping. For the most stable experience, use Simple or Advanced sawmill mode and leave BETA options disabled until comfortable testing newer features.
+
+Search tags:
+plank maker, sawmill, construction, mahogany plank, teak plank, oak plank, lunar plank make, auburnvale
+
+Thread URL:
+PLACEHOLDER - create forum thread first
+
+Ironman Supported:
+Yes
+
+QuickStart Supported:
+No
+
+VIP Features Required:
+No
+
+Script Type:
+Free
+
+Script Repo:
+Use the exact DreamBot-hosted repository name from the Scripter Panel. Do not use GitHub.
+
+Script Module:
+APlankMaker
+
+SDN Parameters:
+Leave blank.
+
+Request Notes:
+Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. All listed sawmill routes are supported, not experimental. GE restocking and selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping remain BETA/experimental. BETA capabilities are intended for users who want to evaluate newer workflows; for the most stable experience, leave BETA options disabled. Ironman mode disables all GE actions.
+
