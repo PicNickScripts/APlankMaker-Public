@@ -40,6 +40,10 @@ This public repository intentionally ships the compiled release jar, SDN submiss
 
 DreamBot SDN submission uses the repository/module fields provided in the DreamBot Scripter Panel. Use the private DreamBot-hosted source repository/module for SDN compile, not this public GitHub repository.
 
+## User Guide
+
+Public setup and settings documentation is available in [`docs/Home.md`](docs/Home.md). If GitHub Wiki is enabled for this repository later, these same pages can be published there.
+
 ## Verification
 
 See `SHA256SUMS.txt` for the release checksum.
