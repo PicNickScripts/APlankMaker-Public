@@ -26,7 +26,7 @@ Script Type:
 Free
 
 Script Repo:
-Use the exact DreamBot-hosted repository name from the Scripter Panel. Do not use GitHub.
+adreareehx
 
 Script Module:
 APlankMaker
