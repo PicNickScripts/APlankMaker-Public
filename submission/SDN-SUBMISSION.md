@@ -11,17 +11,17 @@
 9. **VIP Features Required:** No
 10. **Script Type:** Free
 11. **Script Repo:** `adreareehx`
-12. **Script Module:** APlankMaker
-13. **SDN Parameters:** Leave blank
-14. **Request Notes:** Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Runtime includes humanized mouse/idle behavior and breaks without requiring QuickStart parameters. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping are experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be left blank.
+12. **Script Module:** PicNickScripts
+13. **SDN Parameters:** APlankMaker
+14. **Request Notes:** Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Runtime includes humanized mouse/idle behavior and breaks without requiring QuickStart parameters. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping are experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be set to APlankMaker.
 
 ## Required SDN Module
 
-The private source module is maintained separately and is intentionally not included in this public release repository. Copy the `APlankMaker` module into the root of the DreamBot-hosted repository. The required layout is:
+The private source module is maintained separately and is intentionally not included in this public release repository. Copy the `PicNickScripts` module into the root of the DreamBot-hosted repository. The required layout is:
 
 ```text
 DreamBotRepository/
-+-- APlankMaker/
++-- PicNickScripts/
     +-- src/
         +-- com/
             +-- plankmaker/
@@ -29,3 +29,5 @@ DreamBotRepository/
 ```
 
 The DreamBot form does not accept a jar upload. DreamBot compiles the Java source from its own hosted repository.
+
+

@@ -29,10 +29,12 @@ Script Repo:
 adreareehx
 
 Script Module:
-APlankMaker
+PicNickScripts
 
 SDN Parameters:
-Leave blank.
+APlankMaker
 
 Request Notes:
-Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Runtime includes humanized mouse/idle behavior and breaks without requiring QuickStart parameters. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping are experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be left blank.
+Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Simple and Advanced sawmill flows are the stable primary modes. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Runtime includes humanized mouse/idle behavior and breaks without requiring QuickStart parameters. GE restocking/selling, Lunar altar switching, Lunar Plank Make, and Lunar world hopping are experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be set to APlankMaker.
+
+

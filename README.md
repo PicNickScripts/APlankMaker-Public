@@ -12,9 +12,11 @@ APlankMaker is a DreamBot plank-production script by PicNick.
 
 ## Public Release
 
-- **Current public release:** v4.39
+- **Current public release:** v4.40
 - **Jar:** `releases/AI-Plank-Maker-DreamBot-Public.jar`
-- **DreamBot script/module name:** `APlankMaker`
+- **DreamBot script name:** `APlankMaker`
+- **DreamBot script module:** `PicNickScripts`
+- **SDN Parameters:** `APlankMaker`
 - **Java compatibility:** Java 8 bytecode; source validated with `javac --release 8` for SDN compatibility.
 - **QuickStart:** No
 - **Ironman supported:** Yes. Ironman mode disables Grand Exchange restocking and selling.
@@ -47,4 +49,3 @@ Public setup and settings documentation is available in [`docs/Home.md`](docs/Ho
 ## Verification
 
 See `SHA256SUMS.txt` for the release checksum.
-
