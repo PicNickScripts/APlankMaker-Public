@@ -7,7 +7,7 @@ The runtime overlay shows current status, plank count, rate estimates, coins, ru
 ## Buttons
 
 - Settings: Opens the runtime settings editor.
-- Report Bug: Opens a report prompt and sends relevant recent logs when configured.
+- Report Bug: Opens a local-only report prompt. It can copy or save a sanitized text report for you to manually share.
 - Discord: Opens the APlankMaker Discord invite.
 
 ## Good Bug Reports
@@ -21,4 +21,4 @@ Include:
 - What happened instead
 - Whether it was a fresh start, bank start, or mid-run issue
 
-The report button can attach recent script logs and diagnostics when available.
+The report button does not automatically send reports, screenshots, or logs. Use Copy Report or Save Report, review the sanitized text, then manually paste it in Discord or the forum.

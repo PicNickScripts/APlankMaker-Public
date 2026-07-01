@@ -16,6 +16,8 @@ The number of planks to make before stopping. `0` means unlimited.
 
 Controls equipment setup for Simple and Advanced modes. Auto/Graceful-style movement gear is the recommended default.
 
+Lunar-specific outfit presets are not shown here. Lunar Plank Make has its own optional equipment-slot selector for cosmetic or utility choices.
+
 ## Ironman Mode
 
 Disables Grand Exchange actions, including restocking and selling.

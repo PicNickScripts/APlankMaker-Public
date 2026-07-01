@@ -22,4 +22,4 @@ Confirm Lunar spellbook, Magic level, Dream Mentor requirement, logs, coins, nat
 
 ## Report A Bug
 
-Use the Report Bug button on the overlay when possible. Include the mode, selected logs, route, and what the script was doing.
+Use the Report Bug button on the overlay when possible. It creates a local sanitized report you can copy or save, review, and manually share. Include the mode, selected logs, route, and what the script was doing.

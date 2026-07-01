@@ -23,6 +23,7 @@ The private source module is maintained separately and is intentionally not incl
 DreamBotRepository/
 +-- PicNickScripts/
     +-- src/
+        +-- MainEntryPoint.java
         +-- com/
             +-- plankmaker/
                 +-- ...
