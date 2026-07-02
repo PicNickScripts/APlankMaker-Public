@@ -1,5 +1,5 @@
-[center][img]https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmaker-bannerfinal.png[/img]
-[img]https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmakerfinal-modes.png[/img][/center]
+[center][img]https://raw.githubusercontent.com/PicNickScripts/APlankMaker-Public/main/forum/aplankmaker-bannerfinal.png[/img]
+[img]https://raw.githubusercontent.com/PicNickScripts/APlankMaker-Public/main/forum/aplankmakerfinal-modes.png[/img][/center]
 
 [b]What it does[/b]
 APlankMaker makes planks at supported sawmills with a clean setup flow, Simple auto-routing, and Advanced controls for players who want to choose logs, routes, transport, equipment, and runtime behavior.

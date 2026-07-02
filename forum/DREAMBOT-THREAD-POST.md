@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmaker-bannerfinal.png" alt="APlankMaker" />
+  <img src="https://raw.githubusercontent.com/PicNickScripts/APlankMaker-Public/main/forum/aplankmaker-bannerfinal.png" alt="APlankMaker" />
   <br />
-  <img src="https://raw.githubusercontent.com/Nick-412-eng/APlankMaker-Public/main/forum/aplankmakerfinal-modes.png" alt="APlankMaker modes" />
+  <img src="https://raw.githubusercontent.com/PicNickScripts/APlankMaker-Public/main/forum/aplankmakerfinal-modes.png" alt="APlankMaker modes" />
 </p>
 
 ## What It Does
