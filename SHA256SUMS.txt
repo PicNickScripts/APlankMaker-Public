@@ -1,1 +1,1 @@
-cd548a3926516d3cc26ef4399dc59c5c084a4ddfd798cb8c61b206855fa5e766  releases/AI-Plank-Maker-DreamBot-Public.jar
+648860f0589e84a025bce61e9ec8ee9ffcca4aba8f6cd53cb2fb9af1697bfb5a  releases/AI-Plank-Maker-DreamBot-Public.jar
