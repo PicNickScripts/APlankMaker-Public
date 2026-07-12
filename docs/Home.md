@@ -15,7 +15,7 @@ APlankMaker is a DreamBot plank-making script by PicNick. It is built around sta
 
 ## Recommended First Run
 
-Use Simple Mode or Advanced Mode with owned logs and coins in the bank. Leave experimental restocking, selling, and Lunar options off until you are comfortable testing them.
+Use Simple, Advanced, or Lunar Plank Make with the required owned supplies. Leave experimental GE restocking and selling off until you are comfortable testing them.
 
 ## Supported Sawmills
 

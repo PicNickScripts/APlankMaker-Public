@@ -4,7 +4,7 @@
 
 # Lunar Plank Make
 
-Lunar Plank Make is an experimental mode. It is separate from the sawmill modes and uses the Lunar spell instead of travelling to a sawmill.
+Lunar Plank Make is separate from the sawmill modes and uses the Lunar spell instead of travelling to a sawmill. Start on the Lunar spellbook; otherwise the script stops and explains the requirement.
 
 ## Requirements
 
@@ -25,8 +25,9 @@ Each inventory uses Plank Make casts and requires the relevant runes. An earth s
 
 - **AFK:** casts once and allows the automatic inventory sequence to continue.
 - **Active:** recasts on each log for higher throughput.
+- **Random:** varies between AFK and Active by inventory.
 
-Both styles use the same configured runtime behavior and break settings. AFK is the recommended starting option.
+All styles use the same configured runtime behavior and break settings. AFK is the recommended starting option.
 
 ## Gear
 
@@ -34,7 +35,7 @@ Lunar mode has its own equipment-slot selector. Auto selection defaults toward p
 
 ## Bank Spots And Worlds
 
-Lunar mode can use validated tiles beside supported banks and optional world hopping controls. Casting-position changes remain close to the current bank. These features are experimental and should be tested carefully.
+Lunar mode can use validated tiles beside supported banks and optional world hopping controls. Casting-position changes remain close to the current bank.
 
 ## Restocking
 

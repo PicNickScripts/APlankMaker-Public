@@ -8,15 +8,14 @@ Ironman mode disables Grand Exchange actions. This includes restocking and selli
 
 Simple and Advanced sawmill modes are the primary stable workflows.
 
-## Experimental Modes
+## Experimental Options
 
 These are optional and should be tested carefully:
 
 - GE restocking
 - GE selling
-- Lunar Plank Make
-- Lunar altar switching
-- Lunar world hopping
+
+Lunar Plank Make supports owned supplies and optional world hopping. Start the script on the Lunar spellbook.
 
 ## Recommended Safety Practice
 

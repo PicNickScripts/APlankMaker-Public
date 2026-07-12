@@ -10,7 +10,7 @@ Simple Mode automatically chooses owned supplies and an accessible sawmill route
 
 Advanced Mode lets you choose logs, sawmill, transport, gear, and runtime options.
 
-Lunar Plank Make is an experimental spell-based mode.
+Lunar Plank Make is a spell-based mode and requires the account to start on the Lunar spellbook.
 
 See [Requirements And Unlocks](Requirements-And-Unlocks) before using route-specific or spell-based options.
 
@@ -44,21 +44,17 @@ Controls which logs Lunar Plank Make should process. Auto chooses the highest su
 
 ## Lunar Casting
 
-AFK casts once and allows the automatic inventory sequence to continue. Active recasts each log for higher throughput. AFK is the default.
-
-## Lunar Altar Switching
-
-Experimental option for preparing Lunar spellbook access when needed.
+AFK casts once and allows the automatic inventory sequence to continue. Active recasts each log for higher throughput. Random varies between both styles by inventory. AFK is the default.
 
 ## Lunar World Hopping
 
-Experimental option for changing worlds on a timed range while avoiding unsafe or unsuitable worlds.
+Optional world changes on a saved timed range while avoiding unsafe or unsuitable worlds.
 
 If the account is already in a usable members world, the script should not need to hop before starting.
 
 ## Lunar Bank Spot Rotation
 
-Experimental option for rotating between validated casting tiles beside the current supported bank on a timed range.
+Optional rotation between validated casting tiles beside the current supported bank on a saved timed range.
 
 ## GE Selling
 

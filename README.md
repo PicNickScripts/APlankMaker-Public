@@ -8,7 +8,7 @@ APlankMaker is a DreamBot plank-production script by PicNick.
 
 - **Simple:** uses owned supplies, selects the highest supported log tier, and chooses an accessible sawmill route automatically.
 - **Advanced:** provides manual log, sawmill, transport, equipment, restock, selling, and runtime controls.
-- **Lunar Plank Make [Experimental]:** runs a separate Lunar spell workflow with rune, staff, rune-pouch, bank-position, optional restock, altar switching, and optional safe-world hopping controls.
+- **Lunar Plank Make:** runs a separate Lunar spell workflow with AFK, Active, and Random casting, rune and staff staging, bank-position controls, and optional safe-world hopping.
 
 ## Public Release
 
@@ -27,7 +27,7 @@ APlankMaker is a DreamBot plank-production script by PicNick.
 - Auburnvale, Prifddinas, Woodcutting Guild, and Varrock sawmill routing are supported.
 - Owned-supply processing, humanized mouse and idle behavior, breaks, and optional equipment setup are included.
 - GE restocking and selling are optional experimental features.
-- Lunar Plank Make, Lunar altar switching, and Lunar world hopping are optional experimental features.
+- Lunar Plank Make includes optional world hopping and bank-spot rotation controls.
 
 ## Installation For Local Testing
 

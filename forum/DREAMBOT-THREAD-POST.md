@@ -23,18 +23,16 @@ APlankMaker makes planks at supported sawmills with a clean setup flow, Simple a
 - Humanized mouse, idle, off-screen, AFK, mini-AFK, and break behavior
 - Runtime overlay with quick edit and report controls
 - Ironman-safe mode disables Grand Exchange actions
+- Lunar Plank Make with AFK, Active, and Random casting modes
 - Target 0 means unlimited
 
 ## Experimental Options
 
 - Grand Exchange restocking and selling
-- Lunar Plank Make
-- Lunar altar switching
-- Lunar safe-world hopping
 
 ## Recommended Start
 
-For the most stable experience, start with Simple mode or Advanced sawmill mode. Leave experimental options disabled until you are comfortable testing newer workflows.
+For Lunar Plank Make, start on the Lunar spellbook. Leave experimental Grand Exchange options disabled until you are comfortable testing them.
 
 **QuickStart:** No  
 **Script type:** Free  
