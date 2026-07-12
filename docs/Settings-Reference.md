@@ -48,7 +48,7 @@ AFK casts once and allows the automatic inventory sequence to continue. Active r
 
 ## Lunar World Hopping
 
-Optional world changes on a saved timed range while avoiding unsafe or unsuitable worlds.
+Optional world changes on a saved 1-240 minute range while avoiding unsafe or unsuitable worlds. The next hop is selected within the entered minimum and maximum.
 
 The overlay shows the live hop countdown after startup and after saved runtime edits.
 
@@ -56,7 +56,7 @@ If the account is already in a usable members world, the script should not need 
 
 ## Lunar Bank Spot Rotation
 
-Optional rotation between validated casting tiles beside the current supported bank on a saved timed range.
+Optional rotation between validated casting tiles beside the current supported bank on a saved 1-240 minute range. The next rotation is selected within the entered minimum and maximum.
 
 The overlay shows the live bank-spot countdown beside the world-hop countdown.
 
