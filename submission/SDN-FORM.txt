@@ -5,7 +5,7 @@ Name:
 APlankMaker
 
 Description:
-Makes planks at supported sawmills with Simple auto-routing and Advanced controls for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Includes Lunar Plank Make with AFK, Active, and Random casting. Supports owned supplies, Ironman-safe behavior, breaks, and optional equipment setup. GE restocking and selling are experimental.
+Makes planks at supported sawmills with Simple auto-routing and Advanced controls for Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Includes Lunar Plank Make with AFK, Active, and Random casting. Supports owned supplies, Ironman-safe behavior, breaks, and optional equipment setup. Advanced and Lunar GE restocking and selling are experimental.
 
 Search tags:
 plank maker, sawmill, construction, mahogany plank, teak plank, oak plank, lunar plank make, auburnvale
@@ -35,6 +35,6 @@ SDN Parameters:
 APlankMaker
 
 Request Notes:
-Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Lunar Plank Make requires the account to start on the Lunar spellbook. GE restocking and selling are experimental. Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be set to APlankMaker.
+Java 8-compatible source that also compiles under DreamBot's Java 11 SDN compiler. Supported sawmill routes include Auburnvale, Prifddinas, Woodcutting Guild, and Varrock. Lunar Plank Make requires the account to start on the Lunar spellbook. GE restocking and selling are experimental in Advanced and Lunar modes. Simple Mode uses owned supplies only, and Ironman mode disables all GE actions. QuickStart is not supported; SDN Parameters should be set to APlankMaker.
 
 

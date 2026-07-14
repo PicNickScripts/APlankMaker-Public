@@ -30,7 +30,7 @@ Disables Grand Exchange actions, including restocking and selling.
 
 ## Experimental Restock / GE Planning
 
-Allows normal accounts to use Grand Exchange restocking logic. Leave this off for owned-supply runs.
+Allows normal accounts to test Grand Exchange restocking in Advanced or Lunar mode. Advanced buys the missing difference up to the target while retaining processing coins. Simple Mode does not show or run GE actions.
 
 ## Breaks
 
@@ -62,7 +62,7 @@ The overlay shows the live bank-spot countdown beside the world-hop countdown.
 
 ## GE Selling
 
-Experimental option for selling planks after restock cycles on normal accounts. Disabled by Ironman mode.
+Experimental option for selling planks after restock cycles in Advanced and Lunar modes. Hidden in Simple Mode and disabled by Ironman mode.
 
 
 

@@ -26,4 +26,4 @@ Auto/Graceful-style weight reduction is the recommended default. Manual gear cho
 
 ## Experimental GE Options
 
-Grand Exchange restocking and selling are optional experimental workflows for normal accounts. Ironman mode disables GE actions.
+Grand Exchange restocking and selling are optional experimental Advanced workflows for normal accounts. Restocking buys the missing difference up to the configured target while reserving plank-processing coins. Ironman mode disables GE actions.

@@ -26,7 +26,7 @@ APlankMaker is a DreamBot plank-production script by PicNick.
 - Simple and Advanced sawmill workflows are the primary production modes.
 - Auburnvale, Prifddinas, Woodcutting Guild, and Varrock sawmill routing are supported.
 - Owned-supply processing, humanized mouse and idle behavior, breaks, and optional equipment setup are included.
-- GE restocking and selling are optional experimental features.
+- GE restocking and selling are optional experimental features in Advanced and Lunar modes. Simple Mode uses owned supplies only.
 - Lunar Plank Make includes optional world hopping and bank-spot rotation controls.
 
 ## Installation For Local Testing
